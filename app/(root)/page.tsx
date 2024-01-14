@@ -5,6 +5,8 @@ export default function Home() {
     <>
 
       <button className="btn btn-primary">Hello daisyUI!</button>
+      <button className="btn btn-primary">Hello daisyUI!</button>
+      <button className="btn btn-primary">Hello daisyUI!</button>
     </>
   )
 }
